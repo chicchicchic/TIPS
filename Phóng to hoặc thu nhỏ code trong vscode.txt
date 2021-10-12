@@ -1,0 +1,2 @@
+Ctrl + =: phóng to
+Ctrl + -: thu nhỏ

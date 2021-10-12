@@ -1,0 +1,1 @@
+Nhấn tổ hợp hợp Alt + Z tại file mà mình muốn có tự nhảy xuống dòng khi chiều dài code/comment vượt quá chiều rộng cửa sổ VS Code
